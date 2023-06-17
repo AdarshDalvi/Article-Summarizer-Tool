@@ -96,9 +96,9 @@ export default function Summary() {
             <img src={loader} alt="loader" style={{width:'40px',height:'40px' , objectFit:'contain'}}/>
           : error.message ? 
             <p className='error-text'>
-              Well, that wasn't supposed to happen...{error.message}
+              Well, that wasn't supposed to happen...
               <br />
-              <span>Reload the website if problem occurs again or visit after some time..We will surely fix it</span>
+              <span>Please try again later or check the URL you provided. If the issue persists, feel free to contact me at <span style={{textDecoration:'underline'}}>adarshdalvi197@gmail.com</span>. Thank you!</span>
             </p>
           :article.summary&&
             <div className='summary-wrapper'>

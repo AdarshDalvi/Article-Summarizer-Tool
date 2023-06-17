@@ -4,13 +4,13 @@ import {logo} from '../assets'
 export default function Hero() {
 
   function handleClick(){
-    window.open('https://example.com', '_blank');
+    window.open('https://github.com/AdarshDalvi/Article-Summarizer-Tool', '_blank');
   }
   return (
     <header>
       <nav>
         <img src={logo} alt="sum-logo" className='main-logo' />
-        <button className='github-button' onClick={()=>handleClick}>GitHub</button>
+        <button className='github-button' onClick={handleClick}>GitHub</button>
       </nav>
       <h1 className='heading'>
         Summarize Articles with <br />
