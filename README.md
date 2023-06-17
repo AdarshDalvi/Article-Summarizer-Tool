@@ -54,5 +54,8 @@ The AI Summarizer Tool is a ReactJS application that utilizes RapidAPI's Article
 The AI Summarizer Tool showcases the capabilities of ReactJS and demonstrates how to leverage RapidAPI's Article Summarizer to create a summarization tool. By providing a link to an article or website, users can quickly obtain condensed summaries of the content. While this tool utilizes the free version of RapidAPI's service and is intended for learning and portfolio purposes, it can serve as a foundation for further development and improvements.
 
 ### Live Demo : https://ai-summarizer-tool.netlify.app/
+
+## App Image:
+![Alt Text](https://res.cloudinary.com/dov0rgbvs/image/upload/v1687013404/Screenshot_2023-06-17_201840_mghwz0.png)
     
  
